@@ -3,7 +3,7 @@
 Este é um aplicativo React que apresenta um currículo profissional. O projeto foi desenvolvido com componentes modulares, estilização limpa e organização clara para facilitar manutenção e expansão futura.
 
 ## 🚀 Demonstração
-Você pode visualizar uma versão online do currículo aqui: [Link da Demonstração](https://seu-link-de-hospedagem.com).
+Você pode visualizar uma versão online do currículo aqui: [Link da Demonstração](https://fimaciel.github.io/portifolio-js-prova/).
 
 ---
 
