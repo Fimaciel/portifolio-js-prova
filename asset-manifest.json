@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fimaciel/portifolio-js-prova.git/static/css/main.73598dbb.css",
+    "main.js": "/Fimaciel/portifolio-js-prova.git/static/js/main.2c3d80a8.js",
+    "index.html": "/Fimaciel/portifolio-js-prova.git/index.html",
+    "main.73598dbb.css.map": "/Fimaciel/portifolio-js-prova.git/static/css/main.73598dbb.css.map",
+    "main.2c3d80a8.js.map": "/Fimaciel/portifolio-js-prova.git/static/js/main.2c3d80a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73598dbb.css",
+    "static/js/main.2c3d80a8.js"
+  ]
+}
