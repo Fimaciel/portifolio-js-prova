@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//portifolio-js-prova/static/css/main.73598dbb.css",
-    "main.js": "//portifolio-js-prova/static/js/main.2c3d80a8.js",
-    "index.html": "//portifolio-js-prova/index.html",
-    "main.73598dbb.css.map": "//portifolio-js-prova/static/css/main.73598dbb.css.map",
-    "main.2c3d80a8.js.map": "//portifolio-js-prova/static/js/main.2c3d80a8.js.map"
+    "main.css": "/portifolio-js-prova/static/css/main.73598dbb.css",
+    "main.js": "/portifolio-js-prova/static/js/main.2c3d80a8.js",
+    "index.html": "/portifolio-js-prova/index.html",
+    "main.73598dbb.css.map": "/portifolio-js-prova/static/css/main.73598dbb.css.map",
+    "main.2c3d80a8.js.map": "/portifolio-js-prova/static/js/main.2c3d80a8.js.map"
   },
   "entrypoints": [
     "static/css/main.73598dbb.css",
